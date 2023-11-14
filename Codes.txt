@@ -1,9 +1,20 @@
 Personal Access Code:
 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
 
+Link: https://github.com/settings/tokens
+
+
+
+
 SSH Key:
 Work Laptop
 SHA256:HjcJaIgx1GhoUmy5BwNyGI+YKrHIyHYtY4Iz8iaYblw
 
+Link: https://github.com/settings/keys
+
+
+
 Notes on generating/adding key:
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+Link: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
